@@ -7,6 +7,6 @@ Started by using the RFM analysis, which considers the recentness, frequency, an
 
 Further the datasets were enhanced by assessing their F-scores, R-scores, and M-scores. RFM-M is the monetary value attribute using the sum of the spent amount per customer ID. After creating these measures, I improved these elements by assessing their RFM Scores, which will be labeled as R-score, F-score, and M-score, and then I created quartiles. Values falling in the first 25 percentile will be assigned an R-score of 1, while values in the top 75 percentile will be assigned a score of 1 for RFM-F and RFM-M. I then computed a combined RFM score and used it to segment the data with a series of if-else statements in the calculation field to categorize customers as Gold, Silver, or Bronze.
 
-A snippet of the dashboard created to identify segmented customers by RFM and MBA
+A snippet of the dashboard created to identify segmented customers by RFM and MBA - Please download the .twbx file in this repo to view the full dashboard.
 ![alt text](https://github.com/gabrieljonathan164/Smart_Retailer-RFM-IBFC-MBA/blob/main/Dashboard.png)
 
